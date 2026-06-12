@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-interbank-commodity-murabaha-desk
+description: "BIAN Service Domain: Interbank Commodity Murabaha Desk (Operate pattern, Treasury Markets and Sukuk)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - operate
+annotations:
+  isb/business-area: "Treasury Markets and Sukuk"
+  isb/business-domain: "Islamic Treasury"
+  isb/asset-type: "Interbank Murabaha Deal"
+  isb/control-record: "Interbank Murabaha Deal Operating Session"
